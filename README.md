@@ -24,8 +24,8 @@ dotnet restore
 dotnet run
 ```
 
-Then open `http://localhost:5199/scalar` for the interactive API reference, or
-`http://localhost:5199/openapi/v1.json` for the raw OpenAPI document.
+Then open `http://localhost:5048/scalar` for the interactive API reference, or
+`http://localhost:5048/openapi/v1.json` for the raw OpenAPI document.
 
 ### Seeding an admin account
 
